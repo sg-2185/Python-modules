@@ -36,4 +36,14 @@ Regular Expressions are string patterns to search in other strings
 * additional features. They are part of the **collections** module.
 * Python collection modules are counter, default dict, ordered dict, dq, chainmap, named tuple
 
+**PYTHON SERIALIZER
+* Serialization is the process of converting an object state into a 
+  binary file, this file can be stored on filesystem or transmitted across
+  network. or it can be persisted(stored) and later use.
+* Serialization of an object is also known as deflating or marshalling.
+* In Python we use the **PICKLE** module to Serialize an Object.
+* In order to resurrect an Object from a Pickle file it needs to be deserialized
+* Deserialization of a file into an object also known as inflating or 
+  unmarshalling. 
+
   
