@@ -34,5 +34,6 @@ Regular Expressions are string patterns to search in other strings
 * Python Collections are data structures to store data, Similar to the built-ins
 * like list, dict, set, tuple etc. These module based collections provide
 * additional features. They are part of the **collections** module.
+* Python collection modules are counter, default dict, ordered dict, dq, chainmap, named tuple
 
   
